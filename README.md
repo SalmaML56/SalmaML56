@@ -4,16 +4,12 @@ AI Engineer at **Quantlix** — an agentic AI lab in Islamabad building long-run
 
 ---
 
-### About Quantlix
+I design and deploy end-to-end AI systems — from RAG pipelines and voice-driven assistants to multi-agent automation and computer vision applications. I focus on turning research-grade models into reliable, production-ready products.
 
-Quantlix focused on climate, energy, and agriculture. The team builds long-running AI agents around three core practices:
-
-- **Harness Engineering** — eval suites, guardrails, and simulation environments that take agents from demo to production
-- **Sovereign Deployment** — open-weight models running on client infrastructure, so intelligence stays where the data lives
-- **Forward-Deployed Delivery** — engineers embed directly with client operations teams and hand over systems they can run independently
-
-Quantlix connects agents to physical-world infrastructure — IoT sensors, meters, and edge devices across farms and energy systems — and also maintains **AnycodeJS**, an open-source TypeScript framework for orchestrating collaborative AI agents.
-
+ Currently working on: Long-running agentic AI systems at Quantlix — agents that monitor sensor networks, reason over field and grid data, and execute multi-step operations with checkpointing, evals, and human escalation
+ Actively exploring: Agentic AI workflows and LLM orchestration frameworks
+ B.S. Software Engineering, Virtual University of Pakistan (CGPA 3.35/4.00)
+ Ask me about: RAG systems, NLP, LLM integration, and MLOps deployment
 ---
 
 
