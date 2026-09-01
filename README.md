@@ -8,7 +8,7 @@ AI Engineer at **Quantlix** — an agentic AI lab in Islamabad building long-run
 
 ### About Quantlix
 
-Quantlix is a small, senior-only agentic AI lab — founded by Ali Muhammad in 2023 — focused on climate, energy, and agriculture. The team builds long-running AI agents around three core practices:
+Quantlix focused on climate, energy, and agriculture. The team builds long-running AI agents around three core practices:
 
 - **Harness Engineering** — eval suites, guardrails, and simulation environments that take agents from demo to production
 - **Sovereign Deployment** — open-weight models running on client infrastructure, so intelligence stays where the data lives
