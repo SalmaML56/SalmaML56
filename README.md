@@ -1,7 +1,5 @@
 # Hi, I'm Salma Bibi 
 
-**AI Engineer** specializing in Applied Machine Learning, NLP, and Generative AI Systems
-
 AI Engineer at **Quantlix** — an agentic AI lab in Islamabad building long-running AI agents for climate, energy, and agriculture.
 
 ---
@@ -18,16 +16,6 @@ Quantlix connects agents to physical-world infrastructure — IoT sensors, meter
 
 ---
 
-### About Me
-
-I design and deploy end-to-end AI systems — from RAG pipelines and voice-driven assistants to multi-agent automation and computer vision applications. I focus on turning research-grade models into reliable, production-ready products.
-
--  Currently working on: Long-running agentic AI systems at Quantlix — agents that monitor sensor networks, reason over field and grid data, and execute multi-step operations with checkpointing, evals, and human escalation
--  Actively exploring: Agentic AI workflows and LLM orchestration frameworks
--  B.S. Software Engineering, Virtual University of Pakistan (CGPA 3.35/4.00)
--  Ask me about: RAG systems, NLP, LLM integration, and MLOps deployment
-
----
 
 ### Tech Stack
 
