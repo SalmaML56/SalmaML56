@@ -55,12 +55,12 @@ I design and deploy end-to-end AI systems — from RAG pipelines and voice-drive
 - Building long-running agentic AI systems for climate, energy, and agriculture domains
 - Working on agents that reason over sensor and field data with production-grade checkpointing and evals
 
-**AI Engineer** — ClickTake Technologies, Multan, Pakistan (Apr 2026 – present role transition)
+**AI Engineer** — ClickTake Technologies, Multan, Pakistan (Apr 2026 –Aug 2026)
 - Built a GDPR-compliant multi-tenant SaaS repair platform using Next.js 14 and MongoDB with JWT/RBAC across 4 permission tiers
 - Achieved zero cross-tenant data leakage and zero unauthorized access incidents in production
 - Improved dashboard query performance by 40% via compound MongoDB indexing, cutting average page load from ~2s to under 0.8s
 
-**AI Automation Engineer** — TheEduAssist, Pakistan (Oct 2025 – Jan 2026)
+**AI Automation Intern** — TheEduAssist, Pakistan (Oct 2025 – Jan 2026)
 - Designed and deployed an NLP-driven kiosk serving 200+ users using Transformer-based models, achieving an 87% session completion rate
 - Built a custom AI safety layer on Hugging Face Inference API, maintaining 100% responsible AI compliance
 
