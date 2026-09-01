@@ -1,4 +1,4 @@
-# Hi, I'm Salma Bibi 👋
+# Hi, I'm Salma Bibi 
 
 **AI Engineer** specializing in Applied Machine Learning, NLP, and Generative AI Systems
 
@@ -6,7 +6,7 @@ AI Engineer at **Quantlix** — an agentic AI lab in Islamabad building long-run
 
 ---
 
-### 🏢 About Quantlix
+### About Quantlix
 
 Quantlix is a small, senior-only agentic AI lab — founded by Ali Muhammad in 2023 — focused on climate, energy, and agriculture. The team builds long-running AI agents around three core practices:
 
@@ -18,18 +18,18 @@ Quantlix connects agents to physical-world infrastructure — IoT sensors, meter
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I design and deploy end-to-end AI systems — from RAG pipelines and voice-driven assistants to multi-agent automation and computer vision applications. I focus on turning research-grade models into reliable, production-ready products.
 
-- 🔭 Currently working on: Long-running agentic AI systems at Quantlix — agents that monitor sensor networks, reason over field and grid data, and execute multi-step operations with checkpointing, evals, and human escalation
-- 🌱 Actively exploring: Agentic AI workflows and LLM orchestration frameworks
-- 🎓 B.S. Software Engineering, Virtual University of Pakistan (CGPA 3.35/4.00)
-- 💬 Ask me about: RAG systems, NLP, LLM integration, and MLOps deployment
+-  Currently working on: Long-running agentic AI systems at Quantlix — agents that monitor sensor networks, reason over field and grid data, and execute multi-step operations with checkpointing, evals, and human escalation
+-  Actively exploring: Agentic AI workflows and LLM orchestration frameworks
+-  B.S. Software Engineering, Virtual University of Pakistan (CGPA 3.35/4.00)
+-  Ask me about: RAG systems, NLP, LLM integration, and MLOps deployment
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 `Python` `SQL` `JavaScript` `TypeScript` `Dart`
@@ -49,7 +49,7 @@ I design and deploy end-to-end AI systems — from RAG pipelines and voice-drive
 
 ---
 
-### 💼 Experience Highlights
+### Experience Highlights
 
 **AI Engineer** — Quantlix, Islamabad, Pakistan (Current)
 - Building long-running agentic AI systems for climate, energy, and agriculture domains
@@ -70,7 +70,7 @@ I design and deploy end-to-end AI systems — from RAG pipelines and voice-drive
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 - **Voice-Driven RAG Pipeline** — End-to-end voice-based document Q&A system built for production use
 - **PDF Chat Assistant** — From-scratch RAG pipeline for PDF Q&A, deployed on Streamlit Cloud
