@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120" role="img" aria-label="Results from past work">
+<style>text{font-family:'Segoe UI',Helvetica,Arial,sans-serif}.v{font-size:34px;font-weight:800;fill:#1f4d45;letter-spacing:-1px}.l{font-size:13px;fill:#4b5a54}
+.t{opacity:0;animation:in .7s ease forwards}@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.b{transform-box:fill-box;transform-origin:left;animation:g 1.2s cubic-bezier(.16,1,.3,1) both}@keyframes g{from{transform:scaleX(0)}}</style>
+<g class="t" style="animation-delay:0.0s"><rect x="4" y="4" width="213" height="112" rx="14" fill="#fbf8f0" stroke="#d9cfb8"/>
+<text x="22" y="58" class="v">23%</text><text x="22" y="82" class="l">lower ETA prediction error</text>
+<rect x="22" y="94" width="169" height="5" rx="2.5" fill="#ece4d2"/><rect x="22" y="94" width="38.87" height="5" rx="2.5" fill="#b9801a" class="b" style="animation-delay:0.4s"/></g><g class="t" style="animation-delay:0.15s"><rect x="229" y="4" width="213" height="112" rx="14" fill="#fbf8f0" stroke="#d9cfb8"/>
+<text x="247" y="58" class="v">87%</text><text x="247" y="82" class="l">kiosk session completion</text>
+<rect x="247" y="94" width="169" height="5" rx="2.5" fill="#ece4d2"/><rect x="247" y="94" width="147.03" height="5" rx="2.5" fill="#b9801a" class="b" style="animation-delay:0.55s"/></g><g class="t" style="animation-delay:0.3s"><rect x="454" y="4" width="213" height="112" rx="14" fill="#fbf8f0" stroke="#d9cfb8"/>
+<text x="472" y="58" class="v">40%</text><text x="472" y="82" class="l">faster dashboard queries</text>
+<rect x="472" y="94" width="169" height="5" rx="2.5" fill="#ece4d2"/><rect x="472" y="94" width="67.6" height="5" rx="2.5" fill="#b9801a" class="b" style="animation-delay:0.7s"/></g><g class="t" style="animation-delay:0.44999999999999996s"><rect x="679" y="4" width="213" height="112" rx="14" fill="#fbf8f0" stroke="#d9cfb8"/>
+<text x="697" y="58" class="v">9+</text><text x="697" y="82" class="l">reviewed PRs merged</text>
+<rect x="697" y="94" width="169" height="5" rx="2.5" fill="#ece4d2"/><rect x="697" y="94" width="152.1" height="5" rx="2.5" fill="#b9801a" class="b" style="animation-delay:0.85s"/></g></svg>
